@@ -195,6 +195,8 @@ project.lock.json
 /trunk/AMCTheatreApp/iOS/AMCTheatreApp.iOS.csproj.bak
 trunk/AMCTheatreApp/Droid/Resources/Resource.designer.cs
 
+global.json
+
 !_external\**\*.dll
 /trunk/AMCTheatreApp/.vs/config/applicationhost.config
 /.vs
